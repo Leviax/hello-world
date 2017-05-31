@@ -3,3 +3,6 @@ use vegi/corn;
 use meat/poke;
 use meat/chiken;
 
+function sub($x, $y) {
+  return $x - $y;
+}
